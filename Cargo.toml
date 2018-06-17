@@ -1,0 +1,6 @@
+[package]
+name = "common_features"
+version = "0.1.0"
+authors = ["abalone0204 <abalone0204@gmail.com>"]
+
+[dependencies]
